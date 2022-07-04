@@ -6,7 +6,7 @@
 ### 1. Fetch these sync tools ###
 	mkdir ~/OrangeFox_sync
 	cd ~/OrangeFox_sync
-	git clone (github.com/Dimonnemo64/OFRP-sysc.git) # (or, using ssh, "git clone git@gitlab.com:OrangeFox/sync.git")
+	git clone https://github.com/Dimonnemo64/OFRP-sysc.git
 
 ### 2. Do the syncing (this can take up to 1 hour, and can use up to 40GB of disk space) - below is an example, for 10.0 (amend as required for other branches) ##
 	cd ~/OrangeFox_sync/sync/
